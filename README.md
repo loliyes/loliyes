@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<span>  </span>
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=loliyes" /><span>  
-</span><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliyes&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=loliyes&show_icons=true&theme=dark)
